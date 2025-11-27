@@ -41,7 +41,7 @@ export default function Home() {
             </p>
             <div className="mt-12 flex flex-col sm:flex-row gap-6 justify-center">
               <Button asChild size="lg" className="text-lg px-10 py-7 shadow-2xl">
-                <a href="https://calendly.com/https://calendly.com/jess-manning-dev/new-meeting" target="_blank">
+                <a href="https://calendly.com/jess-manning-dev/new-meeting" target="_blank">
                   <Calendar className="mr-2" /> Book Free Discovery Call
                 </a>
               </Button>
@@ -95,7 +95,7 @@ export default function Home() {
                     ))}
                   </ul>
                   <Button asChild size="lg" className="mt-10 w-full">
-                    <a href="https://calendly.com/https://calendly.com/jess-manning-dev/new-meeting" target="_blank">
+                    <a href="https://calendly.com/jess-manning-dev/new-meeting" target="_blank">
                       Get Started
                     </a>
                   </Button>
@@ -114,7 +114,7 @@ export default function Home() {
               Only 3 spots left this month
             </p>
             <Button asChild size="lg" className="mt-12 text-2xl px-16 py-8 shadow-2xl">
-              <a href="https://calendly.com/https://calendly.com/jess-manning-dev/new-meeting" target="_blank">
+              <a href="https://calendly.com/jess-manning-dev/new-meeting" target="_blank">
                 <Zap className="mr-4" /> Claim Your Free 15-min Call Now
               </a>
             </Button>
